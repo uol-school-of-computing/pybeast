@@ -12,10 +12,10 @@ Both Docker and Apptainer images are prebuilt and hosted in GHCR.  You can
 pull these down instead of building from scratch:
 
 ### Docker
-docker pull ghcr.io/jhodrien/pybeast:main
+docker pull ghcr.io/uol-school-of-computing/pybeast:main
 
 ### Apptainer
-apptainer pull oras://ghcr.io/jhodrien/pybeast:latest
+apptainer pull oras://ghcr.io/uol-school-of-computing/pybeast:latest
 
 ## Usage
 
